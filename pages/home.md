@@ -1,7 +1,7 @@
 ---
-title: The title
-lead: Taxa from your imagination to the web
-project: Your project
+title: Cucujoidea World Catalog
+lead: TaxonWorks workbench project for cucujoid nomenclature
+project: Cucujoidea World Catalog
 ---
    
 # {{frontmatter.title}}
@@ -13,9 +13,7 @@ Welcome to *{{ frontmatter.project }}*, a website of taxon pages generated from 
 ## Get started!
 <autocomplete-otu class="w-80"/>
 
-## Announcements
-* 5/1/2022 - We've grown!  
-* 1/1/2022 - Our website is live!
+
 
 ## Find out more
 Learn how to collaborate with the {{ frontmatter.title }} project. Contact information, technical details, and more are available at [About](/about).
